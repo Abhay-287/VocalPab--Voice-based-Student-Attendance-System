@@ -1,0 +1,7 @@
+{
+    "number_of_recordings": 25,
+    "number_of_students": 4,
+    "svm_test_accuracy": 1.0,
+    "cnn_test_accuracy": 0.4285714328289032,
+    "note": "Small-dataset results are preliminary and do not establish reliable real-world speaker recognition."
+}
